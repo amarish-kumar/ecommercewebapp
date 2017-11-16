@@ -1,0 +1,17 @@
+127.0.0.1 - - [01/Oct/2017:11:55:24 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:05:48 +0530] "GET /onlineshopping/ HTTP/1.1" 200 13882
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:05:49 +0530] "GET /onlineshopping/resources/css/bootstrap.min.css HTTP/1.1" 200 121200
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:05:49 +0530] "GET /onlineshopping/resources/css/myapp.css HTTP/1.1" 200 3870
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:05:49 +0530] "GET /onlineshopping/resources/css/bootstrap-readable-theme.css HTTP/1.1" 200 124547
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:01 +0530] "GET /onlineshopping/ HTTP/1.1" 200 13882
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:01 +0530] "GET /onlineshopping/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:01 +0530] "GET /onlineshopping/resources/css/bootstrap-readable-theme.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:01 +0530] "GET /onlineshopping/resources/css/myapp.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:22 +0530] "GET /onlineshopping/ HTTP/1.1" 200 13882
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:22 +0530] "GET /onlineshopping/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:22 +0530] "GET /onlineshopping/resources/css/bootstrap-readable-theme.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:06:22 +0530] "GET /onlineshopping/resources/css/myapp.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:17:36 +0530] "GET /onlineshopping/ HTTP/1.1" 200 13882
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:17:37 +0530] "GET /onlineshopping/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:17:37 +0530] "GET /onlineshopping/resources/css/bootstrap-readable-theme.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Oct/2017:12:17:37 +0530] "GET /onlineshopping/resources/css/myapp.css HTTP/1.1" 304 -

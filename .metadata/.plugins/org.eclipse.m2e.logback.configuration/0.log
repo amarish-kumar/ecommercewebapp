@@ -1,0 +1,79 @@
+2017-08-29 18:02:30,290 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.kzn:onlineshopping:0.0.1-SNAPSHOT @ D:\MYNEWWS\onlineshopping\pom.xml.
+2017-08-29 18:02:30,290 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.kzn:onlineshopping:0.0.1-SNAPSHOT @ D:\MYNEWWS\onlineshopping\pom.xml.
+2017-08-29 18:02:30,323 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:30,324 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:32,310 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:35,935 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:35,973 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 18:02:36,024 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:36,045 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-08-29 18:02:40,152 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.kzn:onlineshopping:0.0.1-SNAPSHOT @ D:\MYNEWWS\onlineshopping\pom.xml.
+2017-08-29 18:02:40,161 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:41,183 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:45,844 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.kzn:shoppingbackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-29 18:02:47,005 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:47,074 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 18:02:47,078 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:47,091 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-08-29 18:02:48,284 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.kzn:shoppingbackend:0.0.1-SNAPSHOT @ D:\MYNEWWS\shoppingbackend\pom.xml.
+2017-08-29 18:02:49,277 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.kzn:onlineshopping:0.0.1-SNAPSHOT @ D:\MYNEWWS\onlineshopping\pom.xml.
+2017-08-29 18:02:50,001 [Worker-5] WARN  o.e.m.w.AbstractProjectConfiguratorDelegate - shoppingbackend Utility Facet configuration is aborted as the Java Configuration is inconsistent
+2017-08-29 18:02:52,576 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:02:52,577 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 18:02:52,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:02:52,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\shoppingbackend\src\test\resources
+2017-08-29 18:02:56,562 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:02:56,565 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 18:02:56,570 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:02:56,571 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\shoppingbackend\src\test\resources
+2017-08-29 18:02:57,913 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:57,927 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 18:02:57,933 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:02:57,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-08-29 18:19:57,765 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:19:57,766 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 18:19:57,767 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 18:19:57,768 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\shoppingbackend\src\test\resources
+2017-08-29 18:19:57,785 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:19:57,845 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 18:19:57,847 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-29 18:19:57,888 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-01 11:52:02,853 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-01 11:52:02,955 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-01 11:52:02,964 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-01 11:52:02,965 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 21:51:23,791 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 21:51:23,831 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-14 21:51:23,839 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 21:51:23,839 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 21:54:48,930 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-14 21:54:57,522 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\MYNEWWS\onlineshopping
+2017-10-14 21:54:57,525 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B maven clean install
+2017-10-14 21:59:40,287 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 21:59:40,292 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-14 21:59:40,294 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 21:59:40,295 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 22:05:57,522 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-14 22:05:57,523 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-14 22:05:57,525 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-14 22:05:57,526 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\shoppingbackend\src\test\resources
+2017-10-14 22:10:53,580 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:10:53,582 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-14 22:10:53,584 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:10:53,585 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 22:10:58,651 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:10:58,653 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-14 22:10:58,655 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:10:58,655 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 22:13:52,502 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:13:52,525 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-14 22:13:52,527 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:13:52,528 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-14 22:14:05,834 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:14:05,835 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-14 22:14:05,837 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 22:14:05,838 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
+2017-10-20 11:35:57,739 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-20 11:35:57,751 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-20 11:35:57,759 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-20 11:35:57,760 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MYNEWWS\onlineshopping\src\test\resources
